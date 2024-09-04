@@ -1,4 +1,4 @@
-#### Estudante de ciência da computação
+### Estudante de ciência da computação
 
 <div align="center">
   <a href="https://github.com/periclessleite">
