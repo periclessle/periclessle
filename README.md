@@ -4,28 +4,21 @@
 
 Studying Computer Science at the Federal University of Sergipe, focusing on data analysis and artificial intelligence
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
+    <a href="https://www.linkedin.com/in/p%C3%A9ricles-leite-ab2766268">
+        <img
             alt="Meu Linkedin" 
-            title="Meu Linkedin" 
+            title="Meu Linkedin"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/p%C3%A9ricles-leite-ab2766268>
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://is.gd/xTuOgg">
         <img 
             alt="Meu gmail" 
-            title="Meu gmail" 
+            title="Meu gmail"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://is.gd/xTuOgg">
+    <a href="">
         <img 
             alt="" 
             title="Em breve" 
@@ -33,14 +26,15 @@ Studying Computer Science at the Federal University of Sergipe, focusing on data
         />
     </a>
 </p>
-## Linguagens e Tecnologias
+### Linguagens e Tecnologias
+<img/>
 <img 
     align="left" 
     alt="Python"
     title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" 
 />
 <img 
     align="left" 
