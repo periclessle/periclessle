@@ -107,6 +107,6 @@ Studying Computer Science at the Federal University of Sergipe, focusing on data
       align="left" 
       alt="GitHub Stats" 
       height="160" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=periclessle&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=periclessleite&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
